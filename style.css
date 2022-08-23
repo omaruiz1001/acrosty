@@ -1,6 +1,7 @@
+@import "./fe.css";
 body{
-    background-color: #282c34;
-    color: white;
-    font-family: 'Montserrat', sans-serif;
+    background-color:var(--primary-theme-color);
+    color: var(--primary-text-color);
+    font-family: var(--primary-font-family);
     margin: 0;
 }

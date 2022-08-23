@@ -19,6 +19,12 @@ scroll-behavior: smooth;
 --padding-container: 1rem;
 --max-width-container: 640px;
 --primary-border-radius: 0.5rem;
+--letter-color-1:#00bef8;
+--letter-color-2:#ff0697;
+--letter-color-3:#ff4d00;
+--letter-color-4:#ffe600;
+--letter-color-5:#bb00ff;
+--letter-color-6:#f5926b;
 }
 @media (min-width: 768px) {
     :root {
